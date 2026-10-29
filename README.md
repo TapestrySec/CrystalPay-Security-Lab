@@ -2,9 +2,9 @@
 
 An attack-and-defend home lab simulating a fictional fintech company, built in VirtualBox to practise SOC skills: detection, incident response, hardening and business continuity.
 
-> \*\*Status:\*\* Phase 1 in progress. See the \[roadmap](#roadmap) below. This README is updated as each phase is completed.
+> Status: Phase 1 in progress. See the \[roadmap](#roadmap) below. This README is updated as each phase is completed.
 
-> \*\*Note:\*\* CrystalPay is a fictional company. All customer data, accounts, API keys and credentials in this lab are generated. Nothing here relates to a real system.
+> Note: CrystalPay is a fictional company. All customer data, accounts, API keys and credentials in this lab are generated. Nothing here relates to a real system.
 
 ## The scenario
 
